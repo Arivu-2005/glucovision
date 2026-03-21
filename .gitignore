@@ -1,7 +1,6 @@
 .venv/
 venv/
 .vscode/
-.ipynb_checkpoints/
 __pycache__/
 *.py[cod]
-glaudata/
+glaudata/.git_backup_local/
